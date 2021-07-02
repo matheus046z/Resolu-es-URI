@@ -4,4 +4,5 @@
 
 ## Link para os arquivos:
 [URI - 1001](Beginners/Python/URI-1001.py)
-[URI - 1001](Beginners/Python/URI-1002.py)
+
+[URI - 1002](Beginners/Python/URI-1002.py)
