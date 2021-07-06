@@ -2,7 +2,6 @@
 # Ler um floating point com duas casas decimais representando valor monetário
 # Calcular o menor numero possivel de notas e moedas em que o valor pode ser decomposto
 
-
 notas = [100.00, 50.00, 20.00, 10.00, 5.00, 2.00, 1.00, 0.50, 0.25, 0.10, 0.05, 0.01]
 qtnotas = []
 valor = float(input())
