@@ -13,7 +13,7 @@ for i in range(len(cortastr)):
     numera.append(cortastr[i][17:25])
 
 for i in range(len(files)):
-    print("["+numera[i]+"]("+cortastr[i]+")")
+    print("["+numera[i]+"]("+cortastr[i]+")\n")
 
 
 
