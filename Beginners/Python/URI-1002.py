@@ -1,4 +1,5 @@
-# Calcula a area da circunferencia de raio R
+# Problema:
+# Calcular a area da circunferencia de raio R
 # Input contem um valor de floating point
 # Resultado apresenta o valor "A" com quatro casas decimais
 
