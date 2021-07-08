@@ -14,6 +14,3 @@ for i in range(len(cortastr)):
 
 for i in range(len(files)):
     print("["+numera[i]+"]("+cortastr[i]+")\n")
-
-
-
