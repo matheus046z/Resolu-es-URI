@@ -29,5 +29,3 @@
 [URI-1035](Beginners/Python/URI-1035.py)
 
 [URI-1036](Beginners/Python/URI-1036.py)
-
-treate testee pricicla 
